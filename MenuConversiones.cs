@@ -41,6 +41,10 @@ public static class Program
                 float conv3 = pesos * 18.18f;
                 Console.WriteLine(pesos + " pesos es igual a " + conv3.ToString("F2") + " dolares");
                 break;
+
+            default:
+                Console.WriteLine("\nIngresa una opción válida");
+                break;
         }
     }
 }
