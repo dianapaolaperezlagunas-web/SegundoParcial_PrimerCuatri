@@ -1,2 +1,2 @@
 # SegundoParcial_PrimerCuatri
-# Pérez Lagunas Diana Paola 
+# Pérez Lagunas Diana Paola
